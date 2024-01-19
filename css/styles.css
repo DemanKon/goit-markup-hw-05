@@ -710,11 +710,12 @@ a.menu-contact-link:hover {
     font-weight: 500;
     line-height: 1.5;
     letter-spacing: 0.02em;
+    margin-bottom: 16px;
 
 }
 
 .modal-form {
-    padding-top: 16px;
+
 }
 
 .modal {
@@ -722,7 +723,7 @@ a.menu-contact-link:hover {
 }
 
 .modal-field {
-    padding-bottom: 8px;
+    margin-bottom: 8px;
 }
 
 .modal-label {
